@@ -2,7 +2,7 @@
   "cff-version": "1.2.0",
   "message": "Please cite the dataset version and the original publication.",
   "type": "dataset",
-  "title": "奧斯曼精神病院訪記（1875） / A Visit to a Turkish Lunatic Asylum — Transcription Dataset",
+  "title": "奧斯曼精神病院訪記(1875) / A Visit to a Turkish Lunatic Asylum — Transcription Dataset",
   "version": "0.2.0",
   "date-released": "2026-11-19",
   "authors": [
@@ -25,5 +25,6 @@
     "John H. Davidson",
     "psychiatric hospitals",
     "historical transcription"
-  ]
+  ],
+  "doi": "10.5281/zenodo.24372006"
 }
