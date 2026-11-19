@@ -1,0 +1,773 @@
+{
+  "source_title": "A Visit to a Turkish Lunatic Asylum",
+  "title_zh": "奧斯曼精神病院訪記（1875）",
+  "version": "0.1.0",
+  "language": "en",
+  "catalogue": "https://wellcomecollection.org/works/n7xnsgrb",
+  "manifest": "https://iiif.wellcomecollection.org/presentation/v2/b21028059",
+  "source_ocr": "https://archive.org/details/39002086345254.med.yale.edu",
+  "shelfmark": "b21028059",
+  "source_provider": "Yale University, Harvey Cushing/John Hay Whitney Medical Library",
+  "historical_institution": "John H. Davidson",
+  "imprint": "G. P. Bacon, Lewes, 1875",
+  "rights": "The nineteenth-century printed text is in the public domain in the United States. New editorial material and encoding are licensed under CC BY 4.0 wherever copyright applies.",
+  "coverage_note": "The 20-frame copy includes the original cover, title leaf and eight printed pages. One marked omission occurs in the text. Blank scans and later library marks are inventoried.",
+  "frames": [
+    {
+      "id": "f001",
+      "frame": 1,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0001.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0001.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0001.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2449
+        ],
+        "sha256": "083dd59f70f552a9e17e78d0bb87064dfce5eb82c47a0161a24d26c151f89d72"
+      },
+      "parts": [
+        {
+          "id": "f001-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": [
+            "Front board with subsequently added institutional call-number and title label."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f002",
+      "frame": 2,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0002.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0002.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0002.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "46bdca758770e9dde048452bbca8741d7e62447a48da0debe9080f6cc3febd76"
+      },
+      "parts": [
+        {
+          "id": "f002-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": [
+            "Unprinted leaf."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f003",
+      "frame": 3,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0003.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0003.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0003.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2614
+        ],
+        "sha256": "efa927801dbd2884c7fc28ddb62510d19e1a3e3bf83dde48c4b8f3c3dc2f0c0b"
+      },
+      "parts": [
+        {
+          "id": "f003-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "A VISIT TO A TURKISH LUNATIC ASYLUM,",
+              "id": "f003-s-u01"
+            },
+            {
+              "kind": "byline",
+              "text": "By JOHN H. DAVIDSON, M.D. Edin.,\nMedical Superintendent of the Cheshire Asylum.",
+              "id": "f003-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "[Reprinted from Journal of Mental Science, October, 1875.]",
+              "id": "f003-s-u03"
+            },
+            {
+              "kind": "imprint",
+              "text": "Lewes:\nGEO. P. BACON, STEAM PRINTING OFFICES.",
+              "id": "f003-s-u04"
+            }
+          ],
+          "notes": [
+            "Original printed wrapper. Later diagonal stamp and stray mark are outside the transcription."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f004",
+      "frame": 4,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0004.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0004.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0004.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "214c2f8c54d28ef87e4e3b2224328de6a75ecb7d754bb854febc81c087522d57"
+      },
+      "parts": [
+        {
+          "id": "f004-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": [
+            "Unprinted leaf."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f005",
+      "frame": 5,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0005.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0005.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0005.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "8b3f035a69c84e2d09c681b196bb1dc8ef4b240e617aa0338ce5287be5dc8f62"
+      },
+      "parts": [
+        {
+          "id": "f005-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "A VISIT TO A TURKISH LUNATIC ASYLUM.",
+              "id": "f005-s-u01"
+            },
+            {
+              "kind": "byline",
+              "text": "By JOHN H. DAVIDSON, M.D. Edin.,\nMedical Superintendent of the Cheshire Asylum.",
+              "id": "f005-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "[Reprinted from Journal of Mental Science, October, 1875.]",
+              "id": "f005-s-u03"
+            },
+            {
+              "kind": "imprint",
+              "text": "Lewes:\nGEO. P. BACON, STEAM PRINTING OFFICES.",
+              "id": "f005-s-u04"
+            }
+          ],
+          "notes": [
+            "Original title page."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f006",
+      "frame": 6,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0006.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0006.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0006.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "3e55822b1709fb088e56ee6034a8e60de000bf7452f9c9a9914501c4d938a1e8"
+      },
+      "parts": [
+        {
+          "id": "f006-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": [
+            "Unprinted leaf."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f007",
+      "frame": 7,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0007.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0007.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0007.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "3f63b443f7e4602bcc45e90e0a266cb5ff3a1fee415ba0c5a1a057d85e0127ed"
+      },
+      "parts": [
+        {
+          "id": "f007-s",
+          "side": "S",
+          "printed_page": "1",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "A VISIT TO A TURKISH LUNATIC ASYLUM.",
+              "id": "f007-s-u01"
+            },
+            {
+              "kind": "byline",
+              "text": "By JOHN H. DAVIDSON, M.D. Edin.,\nMedical Superintendent of the Cheshire Asylum.",
+              "id": "f007-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "In the course of a tour, last autumn, through Greece,\nTurkey, and Asia Minor, I had the pleasure of making the\nacquaintance of the Physician-in-chief of the Asylum of\nConstantinople and neighbouring provinces, and through his\ncourtesy and kind attention I was not only enabled to visit\nthe Timar-khané, or Dari-chifa, as it is sometimes called,\nbut also to obtain some interesting information respecting\nthe care and treatment of the insane by the Turks more than\nthree centuries ago. Up to a recent date, the insane were\ntaken care of in the Asylum of Suleimanié, situated near the\nmosque of that name, but in consequence of the building\nbeing unable to meet the demands made upon it, the patients\nwere removed to the Asiatic side of the Bosphorus, and\nlodged in the Asylum of Toptaschi in Scutari. The asylum,\nwhich is situated in the most Oriental and most beautiful\nsuburb of Constantinople, on being approached, presents a\nrather dilapidated and neglected-looking appearance, and\nthis aspect has been all the more heightened by the recent\nravages of fire in the immediate vicinity; but the situation\nis most salubrious, as it catches the pleasant breezes from the\nBosphorus and the sea of Marmora. The building is quad-\nrangular, consisting of two storeys and surrounding a court,\nin the centre of which there is placed a fountain at which the\npatients perform their frequent daily ablutions before pros-\ntrating themselves in prayer at the calls of the muezzims\nfrom the minarets of the neighbouring mosques. The day\nand single rooms on the ground floor open into an arcade or\ncolonnade which surrounds the entire building. The upper\nfloor is used for dormitories which open into a corridor. In\nthese the better class of patients sleep, and the more tur-",
+              "id": "f007-s-u03"
+            }
+          ],
+          "notes": [
+            "First page of the text, unnumbered in print and assigned p. 1 from the sequence."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f008",
+      "frame": 8,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0008.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0008.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0008.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "cbcf250893e1c40dcb23134147665b4079a7f9f88dd67e0a2f737d6e6c3822d9"
+      },
+      "parts": [
+        {
+          "id": "f008-s",
+          "side": "S",
+          "printed_page": "2",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "A Visit to a Turkish Lunatic Asylum,",
+              "id": "f008-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "bulent and excited sleep in the single rooms on the ground\nfloor. The windows are protected by strong wire lattice in-\nstead of wooden lattice, as is the custom in all Turkish\ndwellings, and the flooring of both upper and under storeys\nis of tesselated pavement, which reminded me very much of\nthat seen in the strada dell’ abondanza in Pompeii.",
+              "id": "f008-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "The staff of the superior officers of the Asylum is composed\nof a Physician-Superintendent, two medical assistants, an\nunder surgical assistant, a dispenser, an inspector, an imam,\na secretary, and a steward. In addition to these, there are a\ncook, a laundress, and thirty-two attendants, eight of the\nlatter being females, who are under the direction of the\ninspector,—the only officer resident in the asylum. At the\ntime of my visit, the asylum contained three hundred male\nand seventy-four female patients, the Caucasian, Ethiopian,\nand Mongolian races being each more or less fully repre-\nsented. The paucity of females as compared with males is to\nbe attributed, in a great degree, to deep-rooted religious\nscruples, for, so far as I could learn, mental alienation is not\nless prevalent in the East among the women than the men.\nIt is certainly the dernier ressort with the Turks, the placing\nof females in an institution for the insane.",
+              "id": "f008-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "As regards the admission of patients to the Asylum it may\nbe stated that there is no special law in the Ottoman empire\nupon the subject. A few simple formalities only are observed;\nand even in this enlightened age the Mussulmans only think\nof incarcerating such lunatics as are well known to be\ndangerous to themselves, or others, the popular notion being\nthat the treatment of mental disorders is beyond the domain\nof medical science, and that the malady is only amenable to\nthe skill of the exorcist. Patients must therefore have given\nundoubted proofs of furious mania before the Turks would\ndream of secluding them in an asylum. Except in the cir-\ncumstances stated, all lunatics are allowed to remain at home,\nand some are even permitted to ramble about the streets in\na state of complete nudity, their relations regarding them as\nobjects of veneration and sources of prosperity.",
+              "id": "f008-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "As soon as a patient is brought to the Asylum, the doctor,\nor, in his absence, the secretary, furnished with a set form of\nquestions, records the answers that he can gather from the\nrelatives or friends who accompany the patient, and in those\ncases where the information appears insufficient, they are\ninvited to return to the Asylum, that the answers to the\ninquiries may be completed. The fullest information is gene-",
+              "id": "f008-s-u05"
+            }
+          ],
+          "notes": [
+            "Italic running heading. The source has tesselated and dell’ abondanza."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f009",
+      "frame": 9,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0009.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0009.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0009.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "0c6148da3b668ec301a8d9bfc6d5140c696384b2710fcaad6557761a3b63d22f"
+      },
+      "parts": [
+        {
+          "id": "f009-s",
+          "side": "S",
+          "printed_page": "3",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "by John H. Davidson, M.D.",
+              "id": "f009-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "rally supplied by the police who bring cases to the asylum.\nThe patient on admission is immediately washed and clothed\nin the asylum uniform, the patient’s own garments being\ncarefully stored away until the time comes when he may be\nin a condition to leave the asylum. In the event of death,\nhowever, all that belongs to him is handed over to his re-\nlations or heirs, but failing either, the Beit-ul-mal succeeds to\nhis property. The process of washing being completed, the\npatient is conducted into the asylum court and placed among\nthe other inmates. Immediate isolation is never resorted to\nexcept in cases where the patients are violent or suffering\nfrom bodily injuries. An obstreperous case is invariably re-\nstrained by means of the camisole and placed in a single\nroom or cell until the arrival of the doctor, who usually orders\na shower bath as a disciplinary measure. Those who have\nsustained bodily injuries are placed in small isolated chambers,\nand attendants, with trusty convalescent patients, are told\noff to watch and wait upon them.",
+              "id": "f009-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "All the inmates, poor or rich, Mussulmans or Christians,\nmust be dressed in the Asylum clothing. The attendants\nthemselves are attired exactly like the patients, except that\nthere is a slight difference in the colour of the tunic and the\nhead-dress. To each patient in the Asylum Government\ngrants two suits annually, one for summer, and the other for\nwinter wear. In summer the patients all wear a white-felt cap\nand a white linen vest, covered by a long variegated robe, like\na dressing-gown, and tied in the middle with a worsted girdle;\nin winter a tunic of heavy cloth is substituted, over which is\nplaced an outer garment, padded with wadding, and to the\nordinary shoes worn are added the Turkish woollen slippers.\nThis costume very much resembles that worn by Dervishes,\nand the felt head-dress contributes not a little to heighten\nthis resemblance. In fact, from the dress of the patients,\nand the order and tranquillity which reign throughout the\nestablishment at the Physician’s visit, it has almost as much\nthe appearance of a cloister of Dervishes as of a hospital for\nthe insane. The body linen is changed weekly, and the ex-\nternal clothing once a month. This general change is pre-\nceded by a vapour bath, in which the patients are thoroughly\ncleansed and shaved. Personal cleanliness being strictly\ncommanded by the laws of Islamism, the Mohammedan\npatients never, or very rarely, manifest the slightest reluc-\ntance to the bath, but rather the contrary. The Physician-\nSuperintendent says that their love of the bath and of",
+              "id": "f009-s-u03"
+            }
+          ],
+          "notes": [
+            "Running heading in small caps with italic by."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f010",
+      "frame": 10,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0010.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0010.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0010.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "09dc31b69bbe14883feae270483060a0d572652ca595ccb68d1e886f48149159"
+      },
+      "parts": [
+        {
+          "id": "f010-s",
+          "side": "S",
+          "printed_page": "4",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "A Visit to a Turkish Lunatic Asylum,",
+              "id": "f010-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "personal cleanliness contrasts strangely with the aversion ex-\nhibited to all ablutionary processes by the few Christian in-\nmates, who, by their education and knowledge, generally\nbelong to a much superior class of society.",
+              "id": "f010-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "I did not see any of the patients at their meals, but the\nfood is considered healthy and abundant; indeed, the majority\nof the inmates were never so well fed at their own homes.\nDr. Mongeri considers it has but one fault, and that is its\nsameness. He has, however, endeavoured to remedy the\ndefect by suppressing once a week the ration of butcher’s\nmeat, and employing the price in the purchase of fresh veget-\nables; and since this arrangement was made, scorbutus has\ncompletely disappeared, having been formerly the plague of\nthe establishment. The following is the daily allowance by\nGovernment to each inmate of the Asylum:—Bread, of\nmiddling quality, 25 oz.; Mutton, 10 oz.; Rice, 3½ oz.;\nOnions, 1 oz.; Butter, ½ oz.; Dried Peas, 1 oz.; Salt, ½ oz.",
+              "id": "f010-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "The patients have two meals a-day, morning and evening,\nand these are taken in common. The refectory consists of\ntwo chambers, communicating with each other. The tables\nare fixed to the floor, and round them wooden forms are\nplaced. The salle-à-manger in the women’s quarter is simi-\nlarly furnished and arranged. The food is divided in the\nkitchen, and served in plates, or tinned copper porringers,\nwhile the service of the table is performed by convalescents,\nunder the surveillance and direction of the attendants. At\none time the patients did not dine in common, but the as-\nsociated system has for some years been practised with much\nbenefit to the patients. The Asylum population is made up\nchiefly of the indigent class, labourers, field-workers, soldiers,\n&c., but there are a few patients belonging to the well-to-do\nand wealthy classes.",
+              "id": "f010-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "In ordinary circumstances, the patients are visited by the\nPhysician-Superintendent three times a-week. The visits\nare made at fixed hours, and in different quarters of the\nAsylum, according to the season. In the summer and\nautumn months, a wing of the gallery, bordering the court,\nis selected for the inspection, where the patients are ranged\nsitting cross-legged upon low benches, covered with India\nmatting. All patients, except those engaged in domestic\nduties, or confined to bed, must be at the place of inspection\nat the appointed hour. The Doctor, accompanied by his\nmedical assistants and the inspector and head attendant,\nslowly proceeds along the line of patients, occasionally stop-",
+              "id": "f010-s-u05"
+            }
+          ],
+          "notes": [
+            "Italic running heading. Stacked printed half signs represented by ½. The printed onion ration is 1 oz."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f011",
+      "frame": 11,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0011.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0011.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0011.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "6fcbaa9bad43467404606c1ffc03c83e6f84aa0b4b25616258af0239e12fc643"
+      },
+      "parts": [
+        {
+          "id": "f011-s",
+          "side": "S",
+          "printed_page": "5",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "by John H. Davidson, M.D.",
+              "id": "f011-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "ping to make interrogations. The patient generally rises to\nreply to the questions addressed to him, which chiefly refer\nto his health, his wants, and his conduct. In certain circum-\nstances, and specially as regards new admissions, care is\ntaken to conduct them into the Physician’s private room,\nwhere they are subjected to a long and minute examination,\nfor the purpose of ascertaining the nature and extent of their\nphysical disorders. All acts of insubordination at the visit\nare immediately repressed by a shower-bath, which is besides\ninvariably employed as a deterrent to those newly admitted\nwho have not yet conformed to the rules and discipline of the\nestablishment. The shower-bath is always given in the\npresence of a numerous staff, in order to over-awe the patient,\nand to dispel from his mind all idea of resistance or struggle.\nA strict discipline is maintained throughout the Asylum, but\nas the number of patients who have committed murder and\narson continues yearly to increase, strict measures are found\nexpedient. The Physician considers that as the Asylum con-\ntains so many heterogeneous elements, the least relaxation in\nthe observance of the rules of discipline would not be slow\nin giving birth to the gravest disorder, and necessitating the\nreturn to the days of the chain and the gullabi.",
+              "id": "f011-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "The Asylum preserves, as historical curiosities, the chains,\ncollars, fallaca, and other instruments of restraint formerly\nin use. These have been replaced by the camisole, but,\nexcept in very turbulent cases, little recourse is had to it, as\nthe heat of the country renders its employment painful, and\neven dangerous. Reil’s belt is, however, sometimes used to\nrestrain the masturbators, pickers, and certain melancholics\nwith well-ascertained suicidal tendencies. To subdue excite-\nment a prolonged bath of ",
+              "id": "f011-s-u03"
+            },
+            {
+              "kind": "gap",
+              "reason": "omitted-specific-duration-of-coercive-bathing",
+              "id": "f011-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": " duration is the\ntreatment most frequently adopted. Besides the Turkish\nbath, the institution is well supplied with baignoires cou-\nvercles, such as are met with in the asylums of France and\nBelgium.",
+              "id": "f011-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "The employment of the patients is exceedingly restricted,\nowing to want of space, for beyond the performance of a few\ndomestic duties and a little tailoring, the patients have\nreally nothing to do. The amusements consist of the games\nof backgammon and chess, in which only a few engage: many\nprefer to smoke in quiet the narghillé or chibouque, but the\nmajority give themselves up to the pleasures of kief and the\ndolce far niente. A journal called the “Djeridei-havadis”\nis furnished to the Asylum, and those who can read collect",
+              "id": "f011-s-u06"
+            }
+          ],
+          "notes": [
+            "Running heading in small caps with italic by. One exact coercive-bathing duration is marked as an editorial omission on printed p. 5."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f012",
+      "frame": 12,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0012.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0012.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0012.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "7fbf8a98fc0d3f2ea25be2c83907ba5ff2af2ea407c6e45aa0ba1281d5a85cd2"
+      },
+      "parts": [
+        {
+          "id": "f012-s",
+          "side": "S",
+          "printed_page": "6",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "A Visit to a Turkish Lunatic Asylum,",
+              "id": "f012-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "around them, in true Oriental fashion, their less accomplished\nfellow patients, and read aloud for their general edification.",
+              "id": "f012-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "Whether insanity is on the increase in the East or not it is\ndifficult to say. Some think that it is, but do not attribute\nit to the development of civilization in the country. The\ncauses, however, to which insanity is chiefly to be assigned\nin Turkey are, I believe, the increasing secret abuse of raki,\nexcessive indulgence in venery, esrar, and opium, but above\nall to the ravages of syphilis and tuberculosis. Religious\nexcitement is also not an uncommon cause—chiefly amongst\nthe dancing and howling Dervishes.",
+              "id": "f012-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "As a few words regarding the management of the insane\nin Turkey in the sixteenth century may not be uninteresting,\nI shall now give an English précis of some information on\nthe subject, collected by Dr. Mongeri from the archives of\nthe mosque of Sultan Suleiman, and which he most kindly\nsupplied me with:—",
+              "id": "f012-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "In 1560 an asylum for the insane, bearing the name of\nthe Suleimanié, was erected in the neighbourhood of the\nmosque just mentioned. It was richly endowed by its\ngenerous founder, and there was a numerous staff attached\nto it. The number of insane inmates was limited to twenty,\nand there were no less than 150 persons assigned to their\nservice. This statement will doubtless appear fabulous, or\nat least an exaggeration, to all those who are not acquainted\nwith the East, but it will only slightly surprise those who\nhave an intimate knowledge of its manners and customs.\nThe resident staff was composed of the Achdji-Bachi, or\nchief cook; the Hamandji, or chief of the bath; the Tellak-\nBachi, or chief of the cleaners; the Tomrouk-Aghassi, or\nchief of the dungeons; the Gullabi, or chief keeper; the\nMeidanji, or chief of the sweepers; the Sacka-Bachi, or chief\nof the water carriers; and these had all under their orders\ntroops of subalterns more or less numerous. The wages of\nthe latter consisted of a daily allowance of bread and rice\nand a few paras of monthly pay. In the interior of the\nAsylum a large vapour bath was constructed, and here lay\nthe principal duty of the Tellaks. This bath consisted of\nthree chambers, heated to different degrees, and each con-\ntained a basin or reservoir of water. The rooms communi-\ncated with one another by very narrow doors, and there is\nstill to be seen on the stone pavement the iron rings to which\nthe patient was fastened in order to make him submit to the\ncleansing operation. The necessary ablutions being com-\npleted, the patient was returned to the Gullabi, or to the",
+              "id": "f012-s-u05"
+            }
+          ],
+          "notes": [
+            "Italic running heading."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f013",
+      "frame": 13,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0013.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0013.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0013.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "b8e4a974f2ac65c5fa435cdb4e5877e9908d265e0893d205fbecac2a157be3ac"
+      },
+      "parts": [
+        {
+          "id": "f013-s",
+          "side": "S",
+          "printed_page": "7",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "by John H. Davidson, M.D.",
+              "id": "f013-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "Tomrouk-Aghassi if his excitement was great. The Gullabi,\nin returning a patient to his cell, always took the precaution\nto use the iron collar and chain, no matter whether the\npatient was violent or tranquil. The chain, however, did\nnot always suffice to insure tranquillity, for the patients some-\ntimes managed to break, by force or cunning, the solid rings\nto which they were bound. It was then that the Tomrouk-\nAghassi interfered to restore order. If in spite of his inter-\nference, or rather in consequence of it, the lunatic shouted\nand disturbed the quietude of the establishment, the Fala-\nkadjis were called in, that the patient might receive the\nbastinado.",
+              "id": "f013-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "The tailor and furrier of the establishment inspected re-\ngularly twice a year the clothing and furs of the lunatics, so\nthat these might be repaired or renewed if necessary. The\ngreat dignitaries of the empire, anxious to please their Im-\nperial Master, frequently distributed superb furs, and in\nmany instances complete suits, among the insane. The\nmosque scribes sometimes came to the Asylum when a dis-\ntribution was likely to take place, and if the number of\nlunatics was incomplete, it was no uncommon thing to see\nthose worthies playing the rôle of madmen in order to parti-\ncipate in the general distribution.",
+              "id": "f013-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "The food of the insane had been an object of especial con-\nsideration on the part of the founder of the Asylum, for in\nthe vast kitchens of the establishment a large staff prepared\ndishes of the most recherché and delicate character, and it is\nsaid there is still to be seen in the archives of the mosque a\nbill of the expenses incurred for the maintenance and equip-\nment of hunters charged to furnish the necessary game for\nthe consumption of the lunatics.",
+              "id": "f013-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "Sultan Suleiman in erecting the Asylum near the Mosque\nand the Tib-Khané, or School of Medicine, was evidently\ndesirous of putting within its reach the resources of these\ntwo great establishments, while he at the same time insured\nto the public the means of finding there physicians as well\nas medicines. The labours of the dispensers attached to the\nAsylum assumed extraordinary proportions, especially at the\napproach of Spring, when many came for purgatives, or for\nthe famous Nevrouz electuary, which, according to popular\ntradition among the Turks, is a real panacea.",
+              "id": "f013-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "Amusements, prayers, and exorcisms, also played a most\nimportant part in the moral treatment of the insane. In\nfront of the rooms of the lunatics stone stages were erected,\nupon which bands of musicians, companies of comedians,",
+              "id": "f013-s-u06"
+            }
+          ],
+          "notes": [
+            "Running heading in small caps with italic by."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f014",
+      "frame": 14,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0014.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0014.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0014.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "27fb0217c80ab3fd30137af760e7e77f07d8f3f7c847b50666c958930995b8a3"
+      },
+      "parts": [
+        {
+          "id": "f014-s",
+          "side": "S",
+          "printed_page": "8",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "A Visit to a Turkish Lunatic Asylum.",
+              "id": "f014-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "and numbers of buffoons and jugglers exercised their talents\nfor the delectation of the patients, and, as a recompense,\nthese artistes were exempted from paying the fees exigible\nfor permission to pursue their respective callings. The\nleading ulemas of the mosque gravely occupied themselves\nin ascertaining, according to the principles of demonology,\nwhich spirit it was, of the seventy thousand who dwelt in the\nair, that caused the excitement of the lunatic; and on this\ndiscovery being effected, the learned ulemas called to their\nassistance a spirit of a different order, whose beneficent in-\nfluence would destroy the pernicious action of the malevolent\nspirit that annoyed or tormented the lunatic.",
+              "id": "f014-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "As time rolled on, the lunatics confined in the Asylum be-\ncame neglected, and not many years before the appointment\nof the present energetic Physician-Superintendent, Dr.\nMongeri, their condition was deplorable and their treatment\nmost horrible. All regulations as to food, clothing, and\namusements had been forgotten, and dirt and filth had taken\nthe place of the former cleanliness. A Timarkhanedji, whose\nprincipal duty was to order the distribution of the soup pre-\npared at the neighbouring imaret, or cook-shop of the poor,\nassisted by four brutal porters, constituted the entire Asylum\nstaff. The Asylum precincts were the rendezvous of the\nvilest and most disreputable characters, and the scenes that\ntook place there the pen refuses to describe. Government was\nat last forced to interfere, and institute a proper organization.",
+              "id": "f014-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "When Dr. Mongeri assumed the direction of the estab-\nlishment, he had many difficulties and prejudices to contend\nwith, but these have, in a great measure, been happily over-\ncome by his unflagging energy and indomitable perseverance,\nand the patients now confined in the Timar-khane experience\na judicious and humane treatment.",
+              "id": "f014-s-u04"
+            }
+          ],
+          "notes": [
+            "Italic running heading. Historical name forms Timarkhanedji and Timar-khane as separately printed."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f015",
+      "frame": 15,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0015.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0015.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0015.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "f18a969ff8e8aa97e152a3c592cee30365e865f0d0a8f45e35204154d62323da"
+      },
+      "parts": [
+        {
+          "id": "f015-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": [
+            "Unprinted leaf."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f016",
+      "frame": 16,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0016.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0016.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0016.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "5de7e080924e99c3789c4a6747f6162a870eac64d0102a04cfa765d92242f506"
+      },
+      "parts": [
+        {
+          "id": "f016-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": [
+            "Unprinted leaf."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f017",
+      "frame": 17,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0017.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0017.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0017.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "1b1a08dad753b2bf644e57a6e2f15a59ed9b99141e932487657fae132e012313"
+      },
+      "parts": [
+        {
+          "id": "f017-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": [
+            "Unprinted leaf with a stray mark."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f018",
+      "frame": 18,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0018.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0018.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0018.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "f6e3a1562e3043b84d1220de77162f60e0f736dc924c794eff755e87eef815e5"
+      },
+      "parts": [
+        {
+          "id": "f018-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": [
+            "Unprinted leaf."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f019",
+      "frame": 19,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0019.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0019.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0019.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2573
+        ],
+        "sha256": "7c11cb03434953a8c291176cae1f406d7d2ac7ab4fc07b4f767a1239e8e4a994"
+      },
+      "parts": [
+        {
+          "id": "f019-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": [
+            "Later institutional slip and marks, outside the transcription."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f020",
+      "frame": 20,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b21028059/canvases/b21028059_0020.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b21028059_0020.jp2/full/1600,/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b21028059_0020.jp2/full/full/0/default.jpg",
+        "size": [
+          1600,
+          2463
+        ],
+        "sha256": "f806eeca92c986af1e952d0879e40d31fd6842b4051a9cca8f030822ad621054"
+      },
+      "parts": [
+        {
+          "id": "f020-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": [
+            "Rear marbled board."
+          ]
+        }
+      ]
+    }
+  ],
+  "source_rights_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+}
