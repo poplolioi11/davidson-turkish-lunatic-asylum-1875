@@ -1,7 +1,7 @@
 === Source frame 1 ===
 https://iiif.wellcomecollection.org/image/b21028059_0001.jp2/full/1600,/0/default.jpg
 
-[S; blank]
+[S; paratext]
 
 === Source frame 2 ===
 https://iiif.wellcomecollection.org/image/b21028059_0002.jp2/full/1600,/0/default.jpg
@@ -15,7 +15,7 @@ https://iiif.wellcomecollection.org/image/b21028059_0003.jp2/full/1600,/0/defaul
 
 A VISIT TO A TURKISH LUNATIC ASYLUM,
 
-By JOHN H. DAVIDSON, M.D. Edin.,
+By JOHN H. DAVIDSON, M.D. EDIN.,
 Medical Superintendent of the Cheshire Asylum.
 
 [Reprinted from Journal of Mental Science, October, 1875.]
@@ -35,7 +35,7 @@ https://iiif.wellcomecollection.org/image/b21028059_0005.jp2/full/1600,/0/defaul
 
 A VISIT TO A TURKISH LUNATIC ASYLUM.
 
-By JOHN H. DAVIDSON, M.D. Edin.,
+By JOHN H. DAVIDSON, M.D. EDIN.,
 Medical Superintendent of the Cheshire Asylum.
 
 [Reprinted from Journal of Mental Science, October, 1875.]
@@ -51,11 +51,11 @@ https://iiif.wellcomecollection.org/image/b21028059_0006.jp2/full/1600,/0/defaul
 === Source frame 7 ===
 https://iiif.wellcomecollection.org/image/b21028059_0007.jp2/full/1600,/0/default.jpg
 
-[S, printed page 1; transcribed]
+[S; transcribed]
 
 A VISIT TO A TURKISH LUNATIC ASYLUM.
 
-By JOHN H. DAVIDSON, M.D. Edin.,
+By JOHN H. DAVIDSON, M.D. EDIN.,
 Medical Superintendent of the Cheshire Asylum.
 
 In the course of a tour, last autumn, through Greece,
@@ -149,7 +149,7 @@ https://iiif.wellcomecollection.org/image/b21028059_0009.jp2/full/1600,/0/defaul
 
 [S, printed page 3; transcribed]
 
-by John H. Davidson, M.D.
+by JOHN H. DAVIDSON, M.D.
 
 rally supplied by the police who bring cases to the asylum.
 The patient on admission is immediately washed and clothed
@@ -257,7 +257,7 @@ https://iiif.wellcomecollection.org/image/b21028059_0011.jp2/full/1600,/0/defaul
 
 [S, printed page 5; transcribed]
 
-by John H. Davidson, M.D.
+by JOHN H. DAVIDSON, M.D.
 
 ping to make interrogations. The patient generally rises to
 reply to the questions addressed to him, which chiefly refer
@@ -371,7 +371,7 @@ https://iiif.wellcomecollection.org/image/b21028059_0013.jp2/full/1600,/0/defaul
 
 [S, printed page 7; transcribed]
 
-by John H. Davidson, M.D.
+by JOHN H. DAVIDSON, M.D.
 
 Tomrouk-Aghassi if his excitement was great. The Gullabi,
 in returning a patient to his cell, always took the precaution
@@ -488,10 +488,10 @@ https://iiif.wellcomecollection.org/image/b21028059_0018.jp2/full/1600,/0/defaul
 === Source frame 19 ===
 https://iiif.wellcomecollection.org/image/b21028059_0019.jp2/full/1600,/0/default.jpg
 
-[S; blank]
+[S; paratext]
 
 === Source frame 20 ===
 https://iiif.wellcomecollection.org/image/b21028059_0020.jp2/full/1600,/0/default.jpg
 
-[S; blank]
+[S; paratext]
 
